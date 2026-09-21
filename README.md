@@ -1,8 +1,12 @@
 <div align="center">
 
-Hi, I'm Ahana
+<img src="https://readme-typing-svg.demolab.com?font=Georgia&size=24&duration=3000&pause=1000&color=9C5C63&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Ahana;MCA+Student+%C2%B7+Software+Developer;AI%2FML+%C2%B7+Data+%C2%B7+Software;building+things+with+curiosity+%E2%99%A1" alt="Typing introduction">
 
-MCA Student · Software Developer · AI/ML Enthusiast
+<br>
+
+<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="115" alt="Cute animated cat">
+
+<br>
 
 building things with code, curiosity, and a little bit of creativity
 
