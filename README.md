@@ -22,21 +22,27 @@ Python · Java · SQL · React · Django · AI/ML · Docker
 
 </div>
 
-About me:
+**About me:**
 
 I'm an MCA student and software developer who enjoys turning ideas into practical applications.
 
 I like working across different parts of a project, from designing interfaces and building APIs to working with databases and experimenting with AI and machine learning.
 
+
+**Tech Stack I work with:**
+
+Languages
+
 <p>
 <img src="https://img.shields.io/badge/Python-FAE8E0?style=flat-square&logo=python&logoColor=3776AB">
+<img src="https://img.shields.io/badge/Java-FAE8E0?style=flat-square&logo=openjdk&logoColor=007396">
 <img src="https://img.shields.io/badge/SQL-FAE8E0?style=flat-square&logo=postgresql&logoColor=336791">
 <img src="https://img.shields.io/badge/JavaScript-FAE8E0?style=flat-square&logo=javascript&logoColor=F7DF1E">
 <img src="https://img.shields.io/badge/HTML5-FAE8E0?style=flat-square&logo=html5&logoColor=E34F26">
 <img src="https://img.shields.io/badge/CSS3-FAE8E0?style=flat-square&logo=css3&logoColor=1572B6">
 </p>
 
-frameworks & libraries
+Frameworks & Libraries
 
 <p>
 <img src="https://img.shields.io/badge/React-FAE8E0?style=flat-square&logo=react&logoColor=61DAFB">
@@ -46,7 +52,7 @@ frameworks & libraries
 <img src="https://img.shields.io/badge/scikit--learn-FAE8E0?style=flat-square&logo=scikit-learn&logoColor=F7931E">
 </p>
 
-tools & databases
+Tools & Databases
 
 <p>
 <img src="https://img.shields.io/badge/PostgreSQL-FAE8E0?style=flat-square&logo=postgresql&logoColor=4169E1">
@@ -54,7 +60,6 @@ tools & databases
 <img src="https://img.shields.io/badge/Git-FAE8E0?style=flat-square&logo=git&logoColor=F05032">
 <img src="https://img.shields.io/badge/GitHub-FAE8E0?style=flat-square&logo=github&logoColor=181717">
 </p>
-
 
 
 
